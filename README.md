@@ -15,8 +15,8 @@ Installation steps:
 (1) Make sure your system has python install. Open cmd, run command
     python
     
-(2) Run commands:\n
-    pip install requests
+(2) Run commands:
+    <b> pip install requests </>
     pip install time
     pip install win10toast
     
