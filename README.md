@@ -17,10 +17,10 @@ Installation steps:
     
 (2) Run commands:
     <b> pip install requests
-    pip install time
-    pip install win10toast</b>
+    <br>pip install time
+    <br>pip install win10toast</b>
     
 (3) Execute command:
-    python cowin_api.py
+    <b>python cowin_api.py</b>
 
   
