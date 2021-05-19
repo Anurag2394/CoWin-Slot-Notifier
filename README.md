@@ -13,14 +13,14 @@ Features:
 Installation steps:
 
 (1) Make sure your system has python install. Open cmd, run command
-    python
+    <br><b>python
     
 (2) Run commands:
-    <b> pip install requests
+    <b> <br>pip install requests
     <br>pip install time
     <br>pip install win10toast</b>
     
 (3) Execute command:
-    <b>python cowin_api.py</b>
+    <b><br>python cowin_api.py</b>
 
   
