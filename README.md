@@ -13,7 +13,7 @@ Features:
 Installation steps:
 
 (1) Make sure your system has python install. Open cmd, run command
-    <br><b>python
+    <br><b>python</b>
     
 (2) Run commands:
     <b> <br>pip install requests
